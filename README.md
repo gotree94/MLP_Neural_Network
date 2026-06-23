@@ -2,7 +2,7 @@
 
 ## FPGA-based MLP Inference Accelerator — Educational Curriculum
 
-<img src="Zybo_7020.png" width="30%">
+<img src="Zybo_7020.png" width="50%">
 
 > **Goal**: Learn the complete pipeline of **Training → Quantization → Verilog RTL Design → FPGA Implementation** of an MLP (Multi-Layer Perceptron) neural network on the Zybo Zynq-7020 board.
 
